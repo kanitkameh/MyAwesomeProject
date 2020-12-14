@@ -3,9 +3,7 @@
 using namespace std;
 
 int increment(int a){
-    int result = a;
-    result++;
-    return result;
+    return a+1;
 }
 
 int main(){
