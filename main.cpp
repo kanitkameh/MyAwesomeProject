@@ -9,5 +9,6 @@ int increment(int a){
 }
 
 int main(){
+    cout << increment(5) << endl;
     return 0;
 }
